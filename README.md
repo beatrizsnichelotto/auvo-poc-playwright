@@ -15,18 +15,19 @@ O objetivo é validar o fluxo de **cadastro, pesquisa e compra de produto** no s
 ---
 
 ## 📂 Estrutura do Projeto
-
+```text
 auvo-poc-playwright/
-│── tests/
+├── tests/
 │   └── productFlow.spec.js
-│── pages/
+├── pages/
 │   ├── LoginPage.js
 │   ├── ProductsPage.js
 │   ├── ProductDetailsPage.js
 │   ├── CartPage.js
 │   └── CheckoutPage.js
-│── playwright.config.js
-│── README.md
+├── playwright.config.js
+└── README.md
+```
 
 ---
 
