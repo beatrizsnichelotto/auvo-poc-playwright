@@ -1,0 +1,10 @@
+# Dependências
+node_modules/
+
+# Relatórios e resultados do Playwright 
+playwright-report/
+report/
+test-results/
+
+# Logs
+*.log

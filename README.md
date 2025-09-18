@@ -26,7 +26,21 @@ auvo-poc-playwright/
 │   ├── CartPage.js
 │   └── CheckoutPage.js
 ├── playwright.config.js
+├── package.json
 └── README.md
+```
+
+---
+
+## ⚙️ .gitignore
+Define arquivos e pastas que não devem ser versionados, mantendo o repositório limpo:
+
+```text
+node_modules/
+playwright-report/
+report/
+test-results/
+package-lock.json
 ```
 
 ---
